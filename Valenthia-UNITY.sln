@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7D13C648-312F-6DFB-E98F-D63FB4A3A814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.ben-w.erp", "com.ben-w.erp.csproj", "{8669950B-988B-642D-1A4C-4C4CFFC90E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D13C648-312F-6DFB-E98F-D63FB4A3A814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D13C648-312F-6DFB-E98F-D63FB4A3A814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D13C648-312F-6DFB-E98F-D63FB4A3A814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D13C648-312F-6DFB-E98F-D63FB4A3A814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8669950B-988B-642D-1A4C-4C4CFFC90E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8669950B-988B-642D-1A4C-4C4CFFC90E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8669950B-988B-642D-1A4C-4C4CFFC90E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8669950B-988B-642D-1A4C-4C4CFFC90E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

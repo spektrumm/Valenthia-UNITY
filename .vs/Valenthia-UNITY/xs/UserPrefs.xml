@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{7D13C648-312F-6DFB-E98F-D63FB4A3A814}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerMovement.cs">
+    <Files>
+      <File FileName="Assets/PlayerMovement.cs" Line="18" Column="73" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Valenthia-UNITY" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="60bec385-f460-42a2-8e26-79a011d6f308" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
