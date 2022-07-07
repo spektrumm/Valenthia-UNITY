@@ -42,7 +42,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
         // CHECK IF X HAS BEEN PRESSED AKA IF WEAPON WANTS TO BE DRAWN
-        if (Input.GetKeyDown(KeyCode.X) && weapDrawn == false) // doesnt work?
+        if (Input.GetKeyDown(KeyCode.X) && weapDrawn == false)
         {
             weapDrawn = true;
             sheathed = false;

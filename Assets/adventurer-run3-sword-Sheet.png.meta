@@ -42,6 +42,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -244,6 +245,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      adventurer-run3-sword-Sheet_0: 2227654461495373571
+      adventurer-run3-sword-Sheet_3: -4783991137977900449
+      adventurer-run3-sword-Sheet_2: 5632033071882028075
+      adventurer-run3-sword-Sheet_7: 710434698374935334
+      adventurer-run3-sword-Sheet_5: 8502528233740748347
+      adventurer-run3-sword-Sheet_8: 3138005606320733824
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
